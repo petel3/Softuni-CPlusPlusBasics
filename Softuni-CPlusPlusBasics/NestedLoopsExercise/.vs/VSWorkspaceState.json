@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SpecialNumbers",
+    "\\SumPrimeNonPrime",
+    "\\TrainTheTrainers"
   ],
-  "SelectedNode": "\\NestedLoopsExercise.sln",
+  "SelectedNode": "\\SpecialNumbers\\SpecialNumbers.cpp",
   "PreviewInSolutionExplorer": false
 }
