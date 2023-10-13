@@ -1,0 +1,4 @@
+﻿  CinemaTickets.cpp
+C:\Users\Georgi Popov\source\CPlusPlusProjects\SoftuniCPlusPlusBasics\Softuni-CPlusPlusBasics\NestedLoopsExercise\CinemaTickets\CinemaTickets.cpp(44,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Georgi Popov\source\CPlusPlusProjects\SoftuniCPlusPlusBasics\Softuni-CPlusPlusBasics\NestedLoopsExercise\CinemaTickets\CinemaTickets.cpp(48,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CinemaTickets.vcxproj -> C:\Users\Georgi Popov\source\CPlusPlusProjects\SoftuniCPlusPlusBasics\Softuni-CPlusPlusBasics\NestedLoopsExercise\x64\Debug\CinemaTickets.exe
