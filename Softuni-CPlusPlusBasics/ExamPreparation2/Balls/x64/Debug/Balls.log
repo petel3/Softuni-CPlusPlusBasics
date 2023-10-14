@@ -1,0 +1,3 @@
+﻿  Balls.cpp
+C:\Users\Georgi Popov\source\CPlusPlusProjects\SoftuniCPlusPlusBasics\Softuni-CPlusPlusBasics\ExamPreparation2\Balls\Balls.cpp(38,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Balls.vcxproj -> C:\Users\Georgi Popov\source\CPlusPlusProjects\SoftuniCPlusPlusBasics\Softuni-CPlusPlusBasics\ExamPreparation2\x64\Debug\Balls.exe
